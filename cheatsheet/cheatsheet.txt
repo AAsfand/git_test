@@ -1,0 +1,16 @@
+get clone -----(add the shh url from github to connect the repo through the
+terminal
+
+git push: when you have only one repo
+git push origin main: when you have branches and want to send changes to the
+main repo
+
+git add . : adds all the files in the current directory and all subsquent
+directories to the staging area
+
+git commit -m "message describing what changes was made" : commits the changes
+
+git status: to check the status of the files. To see what workflow stage they
+are in.
+
+git log: shows you the history if the changes 
